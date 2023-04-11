@@ -56,4 +56,6 @@ https://learn.microsoft.com/es-es/windows/wsl/install
 ### [Comandos para gestionar redes](./redes.md)
 ### [Comandos para monitorizar el sistema](./monitorizar.md)
 ### [Comandos para gestionar logs](./logs.md)
-
+### [Miniproyecto-LEMP](./pila-lemp.md)
+### [Miniproyecto-LAMP](./pila-lamp.md)
+### [Miniproyecto-PLEX](./plex.md)
